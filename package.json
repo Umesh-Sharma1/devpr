@@ -1,27 +1,5 @@
 {
-  "name": "example-project",
-  "version": "1.0.0",
-  "description": "Example project",
-  "main": "index.js",
-  "scripts": {
-    "lint:html": "htmllint --rc .htmllintrc src/**/*.html",
-    "lint:css": "stylelint \"src/**/*.css\" --config .stylelintrc",
-    "lint:js": "eslint \"src/**/*.js\" --config .eslintrc.js",
-    "build": "webpack --mode production",
-    "start": "node server.js"
-  },
-  "author": "Your Name",
-  "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.39.0",
-    "eslint-config-airbnb-base": "^16.0.0",
-    "eslint-plugin-import": "^2.25.3",
-    "htmllint": "^0.14.1",
-    "stylelint": "^14.0.0",
-    "stylelint-config-standard": "^22.0.0"
-  },
-  "dependencies": {
-    "express": "^4.17.2",
-    "webpack": "^5.58.2"
+    "eslint": "^8.39.0"
   }
 }
