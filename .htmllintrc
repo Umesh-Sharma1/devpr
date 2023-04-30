@@ -1,0 +1,20 @@
+{
+  "doctype-first": true,
+  "doctype-html5": true,
+  "tagname-lowercase": true,
+  "attr-lowercase": true,
+  "attr-value-double-quotes": true,
+  "id-unique": true,
+  "tag-pair": true,
+  "spec-char-escape": true,
+  "attr-no-duplication": true,
+  "id-class-value": "dash",
+  "img-alt-require": true,
+  "head-script-disabled": true,
+  "inline-style-disabled": true,
+  "space-tab-mixed-disabled": true,
+  "id-class-ad-disabled": true,
+  "href-abs-or-rel": false,
+  "attr-unsafe-chars": true,
+  "style-disabled": true
+}
