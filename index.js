@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+vhiudhfvuwrhngdocument.addEventListener("DOMContentLoaded", () => {
   const inputField = document.getElementById("input");
   inputField.addEventListener("keydown", (e) => {
     if (e.code === "Enter") {
